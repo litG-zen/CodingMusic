@@ -1,0 +1,10 @@
+play :c3
+play :c2
+sleep 1
+play :d
+sleep 0.5
+play :e
+sleep 1
+play 22
+play 03
+play 96
